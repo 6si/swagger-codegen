@@ -1,0 +1,12 @@
+pom.xml.jenkins
+pom.xml.ios
+pom.xml.bash
+pom.xml.jenkins.java7
+pom.xml.travis
+pom.xml.circleci.java7
+modules/swagger-codegen-maven-plugin/pom.xml
+modules/swagger-codegen-cli/pom.xml
+modules/swagger-generator/pom.xml
+modules/swagger-codegen/pom.xml
+pom.xml.circleci
+pom.xml
